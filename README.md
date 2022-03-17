@@ -54,4 +54,5 @@ I don't do development continuously
 
 ## Acknowledgments
 
-Special hat tip to God and my online friends, thank you.
+- Netlify
+- W3school
